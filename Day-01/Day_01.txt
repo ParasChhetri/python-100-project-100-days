@@ -1,0 +1,8 @@
+Topics covered in day - 01  (Everything is written in task.py)
+How to print something in our console
+How to take input from user
+How to take input from user and concatinate it with a string
+How to make a variable along with its rule, to read more about it see the rules_to_naming_variable.txt file
+Some basic excersise, to read what excersie is given see excersie.txt file
+Challanges based on what you have learned, to read the challanges see challenge.txt file 
+Mini project -> for more open infoGenerator.txt file

@@ -1,0 +1,8 @@
+print(Notes from Day 1")
+print"The print statement is used to output strings"
+print("Strings are strings of characters)
+print  (String Concatenation is done with the + sign)
+  print("New lines can be created with a \ and the letter n")
+
+
+Q. Write the above code by creating a file named 02_exercise.py and debug it while debugging find the errors it generated and also write the errors in your notes 

@@ -1,0 +1,15 @@
+Mini project name-> info Generator
+
+Aim -> To take all the information from our user(student) and print it in a systematic way
+
+Inputs should be ->
+First name
+Middle name 
+Last name
+Father name
+Mother name
+Address
+Phone number (only dummy number not real)
+Age
+School name
+Percentage
