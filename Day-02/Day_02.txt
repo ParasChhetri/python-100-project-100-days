@@ -1,0 +1,9 @@
+Topics covered in Day - 02
+Data types
+Type operator to check the type of data a vriable holdes
+Typecasting
+Type errors
+Methametical operations
+Excersise -> BMI calculator
+Number manupulation and F string
+Day - 02 project = Tip calculator

@@ -1,0 +1,7 @@
+excersie 01 :
+Find out the output of the following code
+
+input -> print("hello raghunath"[6] + "shivani"[2]) 
+
+excersie 02 :
+print("number of letters in your string : " + len(input("enter your desierd string\n")))

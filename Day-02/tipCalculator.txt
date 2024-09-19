@@ -1,0 +1,12 @@
+mini project name -> tip calculator
+
+Aim - to calculate the tip to be payed and among how many people the bill will be splitted
+
+input ->
+initial amount
+tip percentage 
+among how many people bill will be splitted
+
+output -> 
+how much each person should pay
+the output money should be in the from or rupee i.e ₹120
